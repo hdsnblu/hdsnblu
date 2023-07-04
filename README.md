@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hdsnblu.
-- 👀 I’m interested in... music and coding proxy/game sites.
+- 👀 I’m interested in... music and coding.
 - 🌱 I’m currently learning... html, css, and javascript.
-- 💞️ I’m looking to collaborate on... Radium Network's Argon.
+- 💞️ I’m looking to collaborate on... smt.
 - 📫 How to reach me... my Discord is hdsnblu#5903.
 
 <!---
